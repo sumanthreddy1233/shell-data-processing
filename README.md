@@ -123,6 +123,7 @@ TFTP
 curl can do TFTP downloads and uploads.
 
 ## Citation
-https://www.pdq.com/powershell/
-https://curl.se/docs/manpage.html
+- https://www.pdq.com/powershell/
+
+- https://curl.se/docs/manpage.html
 
